@@ -26,11 +26,11 @@ GUI Library: Tkinter
 Data Storage: JSON
 Modules Used:
 tkinter, ttk, messagebox (for GUI)
+datetime (for timestamps)
+json, os (for data persistence)
 
 Screenshot
 <img width="1122" height="785" alt="image" src="https://github.com/user-attachments/assets/5e4b5b57-bb90-4323-a413-b195250f1bb6" />
 
 
-datetime (for timestamps)
 
-json, os (for data persistence)
